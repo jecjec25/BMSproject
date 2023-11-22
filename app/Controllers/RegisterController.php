@@ -6,10 +6,6 @@ use App\Controllers\BaseController;
 use App\Models\RegisterModel;   
 class RegisterController extends BaseController
 {
-    public function index()
-    {
-        echo view ('dashboard/dashboard');
-    }
     public function register()
     {
         helper(['form']);

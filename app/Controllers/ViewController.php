@@ -15,12 +15,24 @@ class ViewController extends BaseController
     {
         return view('dashboard/CertifiReq');   
     }
+
     public function residentinfo()
     {
         return view('dashboard/residentinfo');   
     }
+
     public function brgycertificate()
     {
         return view('dashboard/brgycertificate');   
+    }
+
+    public function announcement()
+    {
+        return view('dashboard/announcement');   
+    }
+    
+    public function dashboard()
+    {
+        echo view ('dashboard/dashboard');
     }
 }

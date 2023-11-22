@@ -39,7 +39,7 @@ class LoginController extends BaseController
                     ];                   
                     $session->set($ses_data);
                     
-                     return redirect()->to('/index');
+                     return redirect()->to('/dash');
                 }
                 else{
                     $session->setFlashdata('msg', 'Password is incorrect.');

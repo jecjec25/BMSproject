@@ -10,7 +10,7 @@
     <meta name="keywords" content="au theme template">
 
     <!-- Title Page-->
-    <title>Resident Information</title>
+    <title>Announcement</title>
 
     <!-- Fontfaces CSS-->
     <link href="css/font-face.css" rel="stylesheet" media="all">
@@ -54,8 +54,6 @@
                 </div>
             </div>
             <?php include('include/sidebar.php')?>
-        <!-- END MENU SIDEBAR-->
-
         <!-- PAGE CONTAINER-->
         <div class="page-container">
             <!-- HEADER DESKTOP-->
@@ -232,7 +230,8 @@
             </header>
             <!-- HEADER DESKTOP-->
 
-     <!-- Jquery JS-->
+      
+    <!-- Jquery JS-->
     <script src="vendor/jquery-3.2.1.min.js"></script>
     <!-- Bootstrap JS-->
     <script src="vendor/bootstrap-4.1/popper.min.js"></script>

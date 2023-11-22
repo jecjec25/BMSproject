@@ -5,18 +5,6 @@
                             <a class="js-arrow" href="#">
                                 <i class="fas fa-tachometer-alt"></i>Dashboard</a>
                             <ul class="navbar-mobile-sub__list list-unstyled js-sub-list">
-                                <li>
-                                    <a href="index.html">Dashboard 1</a>
-                                </li>
-                                <li>
-                                    <a href="index2.html">Dashboard 2</a>
-                                </li>
-                                <li>
-                                    <a href="index3.html">Dashboard 3</a>
-                                </li>
-                                <li>
-                                    <a href="index4.html">Dashboard 4</a>
-                                </li>
                             </ul>
                         </li>
                         <li>
@@ -110,7 +98,7 @@
                 <nav class="navbar-sidebar">
                     <ul class="list-unstyled navbar__list">
                         <li class="active has-sub">
-                            <a class="js-arrow" href="/index">
+                            <a class="js-arrow" href="/dash">
                                 <i class="fas fa-tachometer-alt"></i>Dashboard</a>
                                                            
                         </li>
@@ -131,7 +119,7 @@
                                 <i class="fas fa-calendar-alt"></i>Barangay Certificates</a>
                         </li>
                         <li>
-                            <a href="">
+                            <a href="/announcement">
                                 <i class="fas fa-map-marker-alt"></i>Announcement</a>
                         </li>
                             </ul>

@@ -5,7 +5,7 @@
 <head>
 	<?php include "include/head.php"; ?>
 
-	<title>Login - Barangay Services Management System</title>
+	<title>Login - Barangay Management System</title>
 
 	<style>
 		label.placeholder {
@@ -21,7 +21,7 @@
 
 		<div class="container container-login animated fadeIn">
 
-			<h3 class="text-center">Login</h3>
+			<h3 class="text-center">Login - Barangay Management System</h3>
 			<div class="login-form">
 				<form method="POST" action="LoginController/login" autocomplete="off">
 					<div class="form-group form-floating-label">
