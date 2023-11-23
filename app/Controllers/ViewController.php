@@ -35,4 +35,11 @@ class ViewController extends BaseController
     {
         echo view ('dashboard/dashboard');
     }
+
+    public function home()
+    {
+        echo view ('landingpage/home');
+    }
+
+    
 }

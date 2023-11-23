@@ -17,3 +17,4 @@ $routes->get('/residentinfo', 'ViewController::residentinfo');
 $routes->get('/brgy-certificate', 'ViewController::brgycertificate');
 $routes->get('/announcement', 'ViewController::announcement');
 $routes->get('/dash', 'ViewController::dashboard');
+$routes->get('/home', 'ViewController::home');  
