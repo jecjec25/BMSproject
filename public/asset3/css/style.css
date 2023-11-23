@@ -183,7 +183,7 @@ nav.navbar.bootsnav {
     padding: 34px 0px;
     text-transform:capitalize;
 }
-.navbar-header a.navbar-brand span{display: inline-block;color:#ff545a;text-transform:capitalize;}
+.navbar-header a.navbar-brand span{display: inline-block;color:#7710C1;text-transform:capitalize;}
 
 .wrap-sticky nav.navbar.bootsnav.sticked .navbar-header a.navbar-brand,.wrap-sticky nav.navbar.bootsnav.sticked .navbar-header a.navbar-brand:hover,.wrap-sticky nav.navbar.bootsnav.sticked .navbar-header a.navbar-brand:focus {padding:30px 0px;}
 /*.navbar-brand*/
@@ -243,7 +243,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 --------------------------------------*/
 .welcome-hero {
     position: relative;
-    background:url(../images/welcome-hero/banner.jpg)no-repeat;
+    background:url(../images/welcome-hero/img1.jpg)no-repeat;
     background-position:center;
     background-size:cover;
     text-align: center;

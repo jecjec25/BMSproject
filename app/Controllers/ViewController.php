@@ -38,7 +38,12 @@ class ViewController extends BaseController
 
     public function home()
     {
-        echo view ('landingpage/home');
+        return view ('landingpage/home');
+    }
+
+    public function about()
+    {
+        return view ('landingpage/about');
     }
 
     

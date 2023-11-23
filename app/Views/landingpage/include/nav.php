@@ -11,7 +11,7 @@
 			                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
 			                    <i class="fa fa-bars"></i>
 			                </button>
-			                <a class="navbar-brand" href="index.html">list<span>race</span></a>
+			                <a class="navbar-brand" href="/home">Calapan<span>City</span></a>
 
 			            </div><!--/.navbar-header-->
 			            <!-- End Header Navigation -->
@@ -19,8 +19,8 @@
 			            <!-- Collect the nav links, forms, and other content for toggling -->
 			            <div class="collapse navbar-collapse menu-ui-design" id="navbar-menu">
 			                <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
-			                    <li class=" scroll active"><a href="#home">home</a></li>
-			                    <li class="scroll"><a href="#works">how it works</a></li>
+			                    <li><a href="/home">Home</a></li>
+			                    <li><a href="/about">About</a></li>
 			                    <li class="scroll"><a href="#explore">explore</a></li>
 			                    <li class="scroll"><a href="#reviews">review</a></li>
 			                    <li class="scroll"><a href="#blog">blog</a></li>
