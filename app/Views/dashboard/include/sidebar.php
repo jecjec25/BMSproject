@@ -103,8 +103,8 @@
                                                            
                         </li>
                         <li>
-                            <a href="/official">
-                                <i class="fas fa-chart-bar"></i>Brgy Officials and Staff</a>
+                            <a href="/demographics">
+                                <i class="fas fa-chart-bar"></i>Demograpic Data</a>
                         </li>
                         <li>
                             <a href="/certificate-request">

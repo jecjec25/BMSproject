@@ -3,12 +3,12 @@
 namespace App\Controllers;
 
 use App\Controllers\BaseController;
-
+use App\Models\DemographicModel;
 class ViewController extends BaseController
 {
-    public function official()
+    public function demography()
     {
-        return view('dashboard/brgyofficial');   
+        return view('dashboard/demographics');   
     }
 
     public function certiReq()
@@ -38,12 +38,23 @@ class ViewController extends BaseController
 
     public function home()
     {
-        return view ('landingpage/home');
+        $demographicdata = new DemographicModel();
+        $data['demographicdata'] = $demographicdata->findAll();
+    
+        return view ('landingpage/home', $data);
     }
 
     public function about()
     {
         return view ('landingpage/about');
+    }
+
+    public function barangays()
+    {
+        $demographicdata = new DemographicModel();
+        $data['demographicdata'] = $demographicdata->findAll();
+    
+        return view ('landingpage/barangay', $data);
     }
 
     

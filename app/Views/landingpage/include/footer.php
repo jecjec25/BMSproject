@@ -5,13 +5,13 @@
 		           	<div class="row">
 			           	<div class="col-sm-3">
 			           		 <div class="navbar-header">
-				                <a class="navbar-brand" href="index.html">Calapan<span>City</span></a>
+				                <a class="navbar-brand" href="/home">Calapan<span>City</span></a>
 				            </div><!--/.navbar-header-->
 			           	</div>
 			           	<div class="col-sm-9">
 			           		<ul class="footer-menu-item">
-			                    <li class="scroll"><a href="#works">how it works</a></li>
-			                    <li class="scroll"><a href="#explore">explore</a></li>
+			                    <li class="scroll"><a href="#works">About</a></li>
+			                    <li class="scroll"><a href="#explore">Barangays in Calapan</a></li>
 			                    <li class="scroll"><a href="#reviews">review</a></li>
 			                    <li class="scroll"><a href="#blog">blog</a></li>
 			                    <li class="scroll"><a href="#contact">contact</a></li>
@@ -23,13 +23,10 @@
 				<div class="hm-footer-copyright">
 					<div class="row">
 						<div class="col-sm-5">
-							<p>
-								&copy;copyright. designed and developed by <a href="https://www.themesine.com/">themesine</a>
-							</p><!--/p-->
+							
 						</div>
 						<div class="col-sm-7">
 							<div class="footer-social">
-								<span><i class="fa fa-phone"> +1  (222) 777 8888</i></span>
 								<a href="#"><i class="fa fa-facebook"></i></a>	
 								<a href="#"><i class="fa fa-twitter"></i></a>
 								<a href="#"><i class="fa fa-linkedin"></i></a>
@@ -38,8 +35,8 @@
 						</div>
 					</div>
 					
-				</div><!--/.hm-footer-copyright-->
-			</div><!--/.container-->
+				</div>
+			</div>
 
 			<div id="scroll-Top">
 				<div class="return-to-top">

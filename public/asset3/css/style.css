@@ -347,6 +347,16 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     z-index: 1;
 }
 .list-topics-content ul li { display: inline-block;}
+.tbl{
+    width: 10px;
+}
+.left-align-text {
+    text-align: left;
+}
+.tbl{
+    text-align: center;
+    margin: 100px;
+}
 
 .single-list-topics-content{
     display: flex;
